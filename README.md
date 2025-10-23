@@ -18,7 +18,7 @@ Here are the steps to set up and run the project on your machine.
 If you don't have it, clone the repository and move into the project directory:
 
 ```
-git clone https://github.com/i8iiii/Wordle-Project.git 
+git clone https://github.com/i8iiii/WordleGame.git 
 cd Wordle-Project
 ```
 ### 2. Create a Virtual Environment (.venv)
